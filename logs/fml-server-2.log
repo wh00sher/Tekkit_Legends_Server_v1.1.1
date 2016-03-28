@@ -1,0 +1,42 @@
+[18:12:28] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[18:12:28] [main/INFO] [FML/]: Forge Mod Loader version 7.99.30.1492 for Minecraft 1.7.10 loading
+[18:12:28] [main/INFO] [FML/]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_77, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_77
+[18:12:28] [main/DEBUG] [FML/]: Java classpath at launch is TekkitLegends.jar
+[18:12:28] [main/DEBUG] [FML/]: Java library path at launch is C:\ProgramData\Oracle\Java\javapath;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\Skype\Phone\;C:\Windows\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft SDKs\Azure\CLI\wbin;C:\Program Files (x86)\Windows Live\Shared;.
+[18:12:28] [main/DEBUG] [FML/]: Enabling runtime deobfuscation
+[18:12:28] [main/DEBUG] [FML/]: Instantiating coremod class FMLCorePlugin
+[18:12:28] [main/DEBUG] [FML/]: Added access transformer class cpw.mods.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[18:12:28] [main/DEBUG] [FML/]: Enqueued coremod FMLCorePlugin
+[18:12:28] [main/DEBUG] [FML/]: Instantiating coremod class FMLForgePlugin
+[18:12:28] [main/DEBUG] [FML/]: Added access transformer class net.minecraftforge.transformers.ForgeAccessTransformer to enqueued access transformers
+[18:12:28] [main/DEBUG] [FML/]: Enqueued coremod FMLForgePlugin
+[18:12:28] [main/DEBUG] [FML/]: All fundamental core mods are successfully located
+[18:12:28] [main/DEBUG] [FML/]: Attempting to load commandline specified mods, relative to d:\Users\Matt\Desktop\Tekkit_Legends_Server_v1.1.1\.
+[18:12:28] [main/DEBUG] [FML/]: Discovering coremods
+[18:12:28] [main/DEBUG] [FML/]: Examining for coremod candidacy [1.7.10]bspkrsCore-universal-6.15.jar
+[18:12:28] [main/DEBUG] [FML/]: Not found coremod data in [1.7.10]bspkrsCore-universal-6.15.jar
+[18:12:28] [main/DEBUG] [FML/]: Examining for coremod candidacy [1.7.10]Treecapitator-universal-2.0.4.jar
+[18:12:28] [main/DEBUG] [FML/]: Not found coremod data in [1.7.10]Treecapitator-universal-2.0.4.jar
+[18:12:28] [main/DEBUG] [FML/]: Examining for coremod candidacy additionalpipes-4.7.0.jar
+[18:12:28] [main/DEBUG] [FML/]: Not found coremod data in additionalpipes-4.7.0.jar
+[18:12:28] [main/DEBUG] [FML/]: Examining for coremod candidacy AOBD-2.8.4.jar
+[18:12:28] [main/DEBUG] [FML/]: Not found coremod data in AOBD-2.8.4.jar
+[18:12:28] [main/DEBUG] [FML/]: Examining for coremod candidacy AsieLib-1.7.10-0.4.4.jar
+[18:12:28] [main/DEBUG] [FML/]: Not found coremod data in AsieLib-1.7.10-0.4.4.jar
+[18:12:28] [main/DEBUG] [FML/]: Examining for coremod candidacy bdlib-1.9.3.107-mc1.7.10.jar
+[18:12:28] [main/DEBUG] [FML/]: Not found coremod data in bdlib-1.9.3.107-mc1.7.10.jar
+[18:12:28] [main/DEBUG] [FML/]: Examining for coremod candidacy BigReactors-0.4.3A.jar
+[18:12:28] [main/DEBUG] [FML/]: Not found coremod data in BigReactors-0.4.3A.jar
+[18:12:28] [main/DEBUG] [FML/]: Examining for coremod candidacy BluePower-1.7.10-0.2.962-universal.jar
+[18:12:28] [main/DEBUG] [FML/]: Not found coremod data in BluePower-1.7.10-0.2.962-universal.jar
+[18:12:28] [main/DEBUG] [FML/]: Examining for coremod candidacy buildcraft-7.1.14.jar
+[18:12:28] [main/DEBUG] [FML/]: Not found coremod data in buildcraft-7.1.14.jar
+[18:12:28] [main/DEBUG] [FML/]: Examining for coremod candidacy buildcraft-compat-7.1.3.jar
+[18:12:28] [main/DEBUG] [FML/]: Not found coremod data in buildcraft-compat-7.1.3.jar
+[18:12:28] [main/DEBUG] [FML/]: Examining for coremod candidacy Carpenter's Blocks v3.3.7 - MC 1.7.10.jar
+[18:12:28] [main/DEBUG] [FML/]: Not found coremod data in Carpenter's Blocks v3.3.7 - MC 1.7.10.jar
+[18:12:28] [main/DEBUG] [FML/]: Examining for coremod candidacy ChickenChunks-1.7.10-1.3.4.19-universal.jar
+[18:12:28] [main/DEBUG] [FML/]: Not found coremod data in ChickenChunks-1.7.10-1.3.4.19-universal.jar
+[18:12:28] [main/DEBUG] [FML/]: Examining for coremod candidacy CodeChickenCore-1.7.10-1.0.6.41-universal.jar
+[18:12:28] [main/TRACE] [FML/]: Adding CodeChickenCore-1.7.10-1.0.6.41-universal.jar to the list of known coremods, it will not be examined again
+[18:12:28] [main/DEBUG] [FML/]: Instantiating coremod class CodeChickenCorePlugin
